@@ -7,17 +7,17 @@
 
 ## List of Projects <br>
 ### Google Colaboratory <br>
-  Text Adventure Game: https://colab.research.google.com/drive/1Zlr5qVcj5Pvwz4yfTi3z39porB4RMJjG?usp=sharing <br>
-  World Bank Data Analysis: https://colab.research.google.com/drive/1qhMlrODpNLT83aVP4_m7W1E13YRSdPEh?usp=sharing <br>  
+  Text Adventure Game - https://colab.research.google.com/drive/1Zlr5qVcj5Pvwz4yfTi3z39porB4RMJjG?usp=sharing <br>
+  World Bank Data Analysis - https://colab.research.google.com/drive/1qhMlrODpNLT83aVP4_m7W1E13YRSdPEh?usp=sharing <br>  
 
 ### RStudio Connect <br>
-  Air France Business Case: https://bookdown.org/Marvin/air_france_business_case/ <br>
+  Air France Business Case - https://bookdown.org/Marvin/air_france_business_case/ <br>
 
 ### ShinyApps.io <br>
   To be added soon - <br>
 
 ### Tableau Public <br>
-  Superstore Sales and Location Analysis for 2018-19: https://public.tableau.com/profile/marvinjung#!/vizhome/Data-DrivenStrategicRecommendationsandBusinessReport_16194722823160/StoryPoint <br>
+  Superstore Sales and Location Analysis for 2018-19 - https://public.tableau.com/profile/marvinjung#!/vizhome/Data-DrivenStrategicRecommendationsandBusinessReport_16194722823160/StoryPoint <br>
 
 ### Microsoft Excel <br>
   To be added soon - <br>
