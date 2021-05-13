@@ -1,4 +1,4 @@
-👋 Hi, I’m Jisung Jung
+👋 Hi, I’m Jisung Jung <br>
 🏫 I've just graduated at HULT International Business School pursuing MBA and Business Analytics <br>
 👀 I’m interested in make a difference as a data scientist. <br>
 🌱 I’m currently learning Data Science and Quantitative Analysis <br>
