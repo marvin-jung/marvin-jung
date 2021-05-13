@@ -7,7 +7,7 @@
 
 ## List of Projects <br>
 ### Google Colaboratory <br>
-  Text Adventure Game - Yoshimi Battles the Pink Robots: https://colab.research.google.com/drive/1Zlr5qVcj5Pvwz4yfTi3z39porB4RMJjG?usp=sharing <br>
+  Text Adventure Game: https://colab.research.google.com/drive/1Zlr5qVcj5Pvwz4yfTi3z39porB4RMJjG?usp=sharing <br>
   World Bank Data Analysis: https://colab.research.google.com/drive/1qhMlrODpNLT83aVP4_m7W1E13YRSdPEh?usp=sharing <br>  
 
 ### RStudio Connect <br>
