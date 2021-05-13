@@ -6,13 +6,13 @@
 
 <External Link> <br>
 [Individual Project] <br>
-# RStudio Connect <br>
+## RStudio Connect <br>
   Air France Business Case - https://bookdown.org/Marvin/air_france_business_case/ <br>
 <br>
-# ShinyApps.io <br>
+## ShinyApps.io <br>
   To be linked soon - <br>
 <br>
-# Tableau Public <br>
+## Tableau Public <br>
   Superstore Sales and Location Analysis for 2018-19 - https://public.tableau.com/views/Data-DrivenStrategicRecommendationsandBusinessReport_16194722823160/StoryPoint?:language=en&:display_count=y&:origin=viz_share_link <br>
 <br>
 <br>
