@@ -6,7 +6,7 @@
 📫 How to reach me : jisung.jung@me.com, withsee@gmail.com, @annagale at Instagram, @mrvnjung at linkedin <br>
 
 <External Link> <br>
-## Individual Project <br>
+## List of Projects <br>
 ### RStudio Connect <br>
   Air France Business Case - https://bookdown.org/Marvin/air_france_business_case/ <br>
 <br>
