@@ -5,7 +5,7 @@
 📫 How to reach me : jisung.jung@me.com, withsee@gmail.com, @annagale at Instagram, @mrvnjung at linkedin <br>
 
 <External Link> <br>
-## [Individual Project] <br>
+## Individual Project <br>
 ### RStudio Connect <br>
   Air France Business Case - https://bookdown.org/Marvin/air_france_business_case/ <br>
 <br>
@@ -16,6 +16,6 @@
   Superstore Sales and Location Analysis for 2018-19 - https://public.tableau.com/views/Data-DrivenStrategicRecommendationsandBusinessReport_16194722823160/StoryPoint?:language=en&:display_count=y&:origin=viz_share_link <br>
 <br>
 <br>
-## [Team Project] <br>
+## Team Project <br>
 # 
  
