@@ -14,7 +14,7 @@
   Air France Business Case - https://bookdown.org/Marvin/air_france_business_case/ <br>
 
 ### ShinyApps.io <br>
-  To be added soon - <br>
+  Natural Language Processing Analysis - https://marvin-jung.shinyapps.io/NLP-Survey/ <br>
 
 ### Tableau Public <br>
   Superstore Sales and Location Analysis for 2018-19 - https://public.tableau.com/profile/marvinjung#!/vizhome/Data-DrivenStrategicRecommendationsandBusinessReport_16194722823160/StoryPoint <br>
