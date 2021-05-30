@@ -4,3 +4,6 @@
 🌱 I’m currently learning Advanced Data Science and Quantitative Analysis <br>
 💞️ I’m looking to collaborate on any organizations to use skills gained from my postgraduate education <br>
 📫 How to reach me : [iCloud](mailto:jisung.jung@me.com), [Gmail](mailto:withsee@gmail.com), [Outlook](mailto:jjung2019@student.hult.edu), [Instagram](https://www.instagram.com/annagale), [Linkedin](https://www.linkedin.com/in/mrvnjung) <br>
+
+Data Science Portfolio - marvin-jung.github.io/portfolio
+- Find out more about my interesting data science projects!
