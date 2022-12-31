@@ -1,9 +1,1 @@
-👋 Hi, I’m Jisung Jung (Marvin) <br>
-👀 I’m interested in making a difference as a data scientist. <br>
-🏫 I've graduated at HULT International Business School majored in MBA and Business Analytics <br>
-🌱 I’m currently learning Machine Learning and Cloud AI <br>
-💞️ I’m looking to collaborate on any organizations to use skills gained from my postgraduate education <br>
-📫 How to reach me : [iCloud](mailto:jisung.jung@me.com), [Gmail](mailto:withsee@gmail.com), [Outlook](mailto:jjung2019@student.hult.edu), [Instagram](https://www.instagram.com/annagale), [Linkedin](https://www.linkedin.com/in/mrvn-jung) <br>
-
-Personal Portfolio - Find out more about me and my interesting data science projects!
-- https://marvin-jung.github.io/
+Hi there! My name is Marvin, and I'm a recent MBA and Business Analytics graduate from HULT International Business School. I'm excited to use my skills and knowledge to make a difference as a data scientist, and I'm open to collaborating with organizations that are working on meaningful projects. In addition to my business background, I'm also learning about machine learning and cloud AI to further enhance my data science skillset. If you have a project that could benefit from my expertise, please don't hesitate to get in touch with me through [iCloud](mailto:jisung.jung@me.com), [Gmail](mailto:withsee@gmail.com), [Outlook](mailto:jjung2019@student.hult.edu), [Instagram](https://www.instagram.com/annagale), [LinkedIn](https://www.linkedin.com/in/mrvn-jung) . You can also visit my personal portfolio to learn more about me and my data science projects: https://marvin-jung.github.io/
